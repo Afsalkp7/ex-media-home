@@ -1,0 +1,13 @@
+.firstSection {
+    color: rgb(202, 202, 202);
+    font-size: 16px;
+    text-align: start;
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+    text-transform: capitalize;
+    font-weight: lighter;
+}
+.firstDiv {
+    padding-right: 50px;
+}

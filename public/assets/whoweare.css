@@ -1,0 +1,12 @@
+.whoWeAreMain {
+    text-align: center;
+    color: rgb(243, 243, 105) ;
+    padding: 60px;
+    font-size: 50px;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+.mainfooter{
+    font-size: small;
+    letter-spacing: 8px;
+}

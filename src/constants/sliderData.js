@@ -9,16 +9,16 @@ export const sliderCollection = [
     {
         imgUrl : 'https://www.exmedia.in/assets/images/services/hands.jpg',
         alt : 'hands',
-        title : 'EXMEDIA',
-        content : 'GRAPHIC TRANSFORMING BUSINESS STRATEGY',
-        sub : 'CREATIVE TEAM'
+        title : 'CRAFTING',
+        content : 'BRAND IDENTITY CAPTURING MOMENT',
+        sub : 'SINCE 2006, EXMEDIA HAS BEEN A TRAILBLAZING'
     },
     {
         imgUrl : 'https://www.exmedia.in/assets/images/backgrounds/2.jpg',
         alt : 'background',
-        title : 'EXMEDIA',
-        content : 'GRAPHIC TRANSFORMING BUSINESS STRATEGY',
-        sub : 'CREATIVE TEAM'
+        title : 'INNOVATION IDEAS',
+        content : 'START STRONG WITH EFFECTIVE BRANDING',
+        sub : 'CREATIVE TEAM , BEST SERVICES'
     },
     {
         imgUrl : 'https://www.exmedia.in/assets/images/backgrounds/1.jpg',

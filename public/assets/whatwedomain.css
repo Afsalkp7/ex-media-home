@@ -3,9 +3,45 @@
     color: black;
     text-align: center;
     padding: 60px;
+    line-height: 20PX;
 }
 .whatwedoheading{
     font-size: 50px;
     font-weight: bolder;
     text-transform: uppercase;
+}
+.whatwedosub{
+    font-weight: bold;
+}
+.whatwedofirstSection{
+    background-color: rgb(243, 243, 105);
+    color: black;
+}
+.whatwedofirstSection {
+    color: black;
+    font-size: 16px;
+    text-align: start;
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+    text-transform: capitalize;
+    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 30px;
+}
+.whatwedofirstDiv {
+    padding-right: 50px;
+}
+.whatwedofirstTitle{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+.whatwedofirstTitleSub{
+    font-size: 30px;
+    font-weight: bold;
+}
+.whatwedosecondDiv img{
+    width: 100%;
+    height: 100%;
 }

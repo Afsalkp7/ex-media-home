@@ -27,4 +27,10 @@ export const sliderCollection = [
         content : 'GRAPHIC TRANSFORMING BUSINESS STRATEGY',
         sub : 'CREATIVE TEAM'
     }
-]   
+]  
+
+export const section2Image = 'https://www.exmedia.in/assets/images/services/studio.jpg'
+export const section3Image = 'https://www.exmedia.in/assets/images/services/hands.jpg'
+export const section4Image = "https://www.exmedia.in/assets/images/services/branding.jpg"
+export const FooterImage = "https://png.pngtree.com/thumb_back/fh260/background/20210710/pngtree-abstract-graphics-with-yellow-gradient-lines-on-light-yellow-background-image_738812.jpg"
+export const logo = "https://res.cloudinary.com/dzvvpbnai/image/upload/v1714814573/Screenshot_2024-05-04_144813-removebg-preview_fm8gkp.png"

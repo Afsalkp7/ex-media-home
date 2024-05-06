@@ -1,5 +1,4 @@
 
-/* animation text in first item */
 .slider .list .item:nth-child(1) .content .title,
 .slider .list .item:nth-child(1) .content .type,
 .slider .list .item:nth-child(1) .content .description,
@@ -31,9 +30,6 @@
 }
 
 
-
-
-/* Animation for next button click */
 .slider.next .list .item:nth-child(1) img{
     width: 150px;
     height: 220px;
@@ -82,8 +78,6 @@
 }
 
 
-
-/* Animation for prev button click */
 .slider.prev .list .item:nth-child(2){
     z-index: 2;
 }
@@ -139,39 +133,31 @@
     }
 }
 
-/* For screens smaller than 678px */
 @media screen and (max-width: 678px) {
-  /* Adjust font size in slider content */
   .slider .list .item .content .title {
       font-size: 25px;
   }
   
-  /* Adjust thumbnail width */
   .thumbnail .item {
       width: 100px;
       height: 150px;
   }
   
-  /* Adjust nextPrevArrows width */
   .nextPrevArrows {
       width: 200px;
   }
 }
 
-/* For screens smaller than 400px */
 @media screen and (max-width: 400px) {
-  /* Adjust font size in slider content */
   .slider .list .item .content .title {
       font-size: 20px;
   }
   
-  /* Adjust thumbnail width */
   .thumbnail .item {
       width: 80px;
       height: 120px;
   }
   
-  /* Adjust nextPrevArrows width */
   .nextPrevArrows {
       width: 150px;
   }
